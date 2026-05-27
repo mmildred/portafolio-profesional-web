@@ -48,3 +48,50 @@ Feel free to reach out if you have any questions or feedback!
 ---
 
 ⭐ Don't forget to star this repo if you like it!
+# Portafolio Profesional
+
+## Nombre del estudiante
+[Escribe aquí tu nombre completo]
+
+## Objetivo de la práctica
+Personalizar una plantilla web profesional utilizando Git y GitHub.
+
+## Tecnologías utilizadas
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+## Cambios realizados
+- Actualización de datos personales (nombre, profesión, descripción)
+- Cambio de colores y estilos
+- Adaptación responsiva
+- Nuevas imágenes profesionales
+- Sección de habilidades técnicas
+- [Agrega cualquier otro cambio que hayas hecho]
+
+## Comandos Git utilizados
+- `git clone` - Clonar repositorio
+- `git status` - Ver estado de cambios
+- `git add .` - Preparar archivos para commit
+- `git commit -m "mensaje"` - Guardar cambios
+- `git push` - Subir cambios a GitHub
+- `git pull` - Descargar cambios
+- `git branch` - Administrar ramas
+- `git remote` - Gestionar repositorios remotos
+
+## Evidencias
+> Agrega aquí capturas de pantalla del proyecto funcionando.
+
+### Sitio original
+![Sitio original](/assets/img/Sitio_Original.png)
+
+### Sitio personalizado
+![Sitio personalizado](/assets/img/Sitio_Personalizado.png)
+
+### Comandos en terminal
+![Comandos Git](ruta/de/tu/imagen3.png)
+
+## URL del repositorio
+[Enlace a tu repositorio de GitHub](https://github.com/mmildred/portafolio-profesional-web)   
